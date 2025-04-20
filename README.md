@@ -22,7 +22,6 @@ Este gráfico pode ser utilizado para análises climáticas e apresentações so
 
 ## 📁 Estrutura do Projeto
 
-
 ---
 
 ## 📈 Dados Utilizados
@@ -39,4 +38,11 @@ Este gráfico pode ser utilizado para análises climáticas e apresentações so
 > **Média histórica considerada:** 24.23°C
 
 ---
+
+## 👨‍💻 Autor
+
+**João Daniel Temporin**  
+💼 Analista de Dados Júnior  
+🔗 [LinkedIn]([https://www.linkedin.com/in/joaotemporin](https://www.linkedin.com/in/joao-temporin/)](https://www.linkedin.com/in/joao-temporin/))
+
 
