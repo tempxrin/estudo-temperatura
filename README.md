@@ -41,7 +41,6 @@ Este gráfico pode ser utilizado para análises climáticas e apresentações so
 ## 👨‍💻 Autor
 
 **João Daniel Temporin**  
-📍 Londrina/PR  
 💼 Analista de Dados Júnior
 🔗 [LinkedIn](https://www.linkedin.com/in/joao-temporin/) 
 
