@@ -19,10 +19,6 @@ Este gráfico pode ser utilizado para análises climáticas e apresentações so
 
 ---
 
-## 📁 Estrutura do Projeto
-
----
-
 ## 📈 Dados Utilizados
 
 | Ano  | Temperatura (°C) |
