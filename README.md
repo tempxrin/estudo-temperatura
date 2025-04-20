@@ -13,7 +13,6 @@ Este gráfico pode ser utilizado para análises climáticas e apresentações so
 
 ## 🧰 Tecnologias Utilizadas
 
-- Python 3.x  
 - [Pandas](https://pandas.pydata.org/)  
 - [Matplotlib](https://matplotlib.org/)  
 - [Seaborn](https://seaborn.pydata.org/)
@@ -42,7 +41,8 @@ Este gráfico pode ser utilizado para análises climáticas e apresentações so
 ## 👨‍💻 Autor
 
 **João Daniel Temporin**  
-💼 Analista de Dados Júnior  
-🔗 [LinkedIn]([https://www.linkedin.com/in/joaotemporin](https://www.linkedin.com/in/joao-temporin/)](https://www.linkedin.com/in/joao-temporin/))
+📍 Londrina/PR  
+💼 Analista de Dados Júnior
+🔗 [LinkedIn](https://www.linkedin.com/in/joao-temporin/) 
 
 
